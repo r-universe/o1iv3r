@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ClustImpute",
+    "oncran": true
+  },
+  {
+    "package": "FeatureImpCluster",
+    "oncran": true
+  }
+]
