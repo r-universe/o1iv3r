@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ClustImpute"]
 	path = ClustImpute
 	url = https://github.com/o1iv3r/clustimpute
-	shallow = true
-	registered = true
 [submodule "FeatureImpCluster"]
 	path = FeatureImpCluster
 	url = https://github.com/o1iv3r/featureimpcluster
-	shallow = true
-	registered = true
